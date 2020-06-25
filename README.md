@@ -1,3 +1,3 @@
-# LinearRegression
-My 
-First Simple Linear ML model
+# LinearRegression model that predicts salary of employees
+My First Simple Linear Machine model
+- created with python
